@@ -1,1 +1,1 @@
-# eteralcraft
+# eteralcraftPlugin
