@@ -1,0 +1,15 @@
+# 欢迎消息配置
+messages:
+  first-join: "&a欢迎 &6{player} &a首次加入服务器!"
+  first-join-broadcast: "&e欢迎新玩家 &6{player} &e加入服务器!"
+  welcome-back: "&a欢迎回来, &6{player}&a!"
+
+# 是否广播新玩家加入
+broadcast-first-join: true
+
+# 音效配置
+sound:
+  enabled: true
+  type: BLOCK_NOTE_BLOCK_PLING
+  volume: 1.0
+  pitch: 1.0

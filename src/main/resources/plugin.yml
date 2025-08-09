@@ -1,0 +1,24 @@
+name: EteralCraftPlugin
+version: 1.1.250807+1.0.1
+author: ljmrhj
+main: com.ljmrhj.ecplugin
+commands:
+  aboutserver:
+    description: 关于服务器信息
+    usage: /aboutserver
+  eteralcrafthelp:
+    description: 显示帮助信息
+    usage: /eteralcrafthelp
+  link:
+    description: 打开金币商店链接
+    usage: /link
+permissions:
+  ecplugin.link.use:
+    description: 允许使用/link命令
+    default: true
+  ecplugin.about.use:
+    description: aboutserver
+    usage: true
+  ecplugin.help.use:
+    description: help
+    usage: true
